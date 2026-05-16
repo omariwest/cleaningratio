@@ -5,6 +5,78 @@
 
 window.BLOG_DATA_DILUTION = [
   {
+    title: "How Much Cleaner Concentrate for a 750 mL Spray Bottle?",
+    url: "blogs/dilution/how-much-concentrate-for-750ml-spray-bottle.html",
+    tag: "Dilution",
+    description:
+      "Exact cleaner concentrate amounts for a 750 mL spray bottle, including 1:10, 1:20, 1:32, 1:64, mL-per-liter, and oz-per-gallon examples.",
+    meta: "12 min read • Spray bottle dilution",
+    category: "750 ml spray bottle cleaner concentrate dilution",
+  },
+  {
+    title: "How to Dilute Cleaner for a 24 oz Spray Bottle",
+    url: "blogs/dilution/how-to-dilute-cleaner-for-24-oz-spray-bottle.html",
+    tag: "Dilution",
+    description:
+      "Exact cleaner concentrate amounts for a 24 oz spray bottle, including 1:10, 1:20, 1:32, 1:64, mL-per-liter, and oz-per-gallon examples.",
+    meta: "12 min read • Spray bottle dilution",
+    category: "24 oz spray bottle cleaner dilution",
+  },
+  {
+    title: "How Much Cleaner Concentrate for a 2 Liter Bottle?",
+    url: "blogs/dilution/how-much-concentrate-for-2-liter-bottle.html",
+    tag: "Dilution",
+    description:
+      "Exact cleaner concentrate amounts for a 2 liter bottle, including 1:10, 1:20, 1:32, 1:64, mL-per-liter, and oz-per-gallon examples.",
+    meta: "12 min read • 2 liter dilution",
+    category: "2 liter cleaner concentrate dilution",
+  },
+  {
+    title: "How to Mix Cleaning Solution for a 3 Gallon Bucket",
+    url: "blogs/dilution/how-to-mix-cleaning-solution-for-3-gallon-bucket.html",
+    tag: "Dilution",
+    description:
+      "Exact cleaner concentrate amounts for a 3 gallon bucket, including oz-per-gallon, 1:10, 1:20, 1:32, 1:64, and floor cleaning examples.",
+    meta: "13 min read • Bucket dilution",
+    category: "3 gallon bucket cleaning solution dilution",
+  },
+  {
+    title: "What Does a 1:40 Dilution Mean? Exact mL + oz Examples",
+    url: "blogs/dilution/what-does-1-to-40-dilution-mean.html",
+    tag: "Dilution",
+    description:
+      "Plain-English 1:40 dilution guide with exact mL and oz examples for spray bottles, 1 liter, 2 liters, 1 gallon, and 3 gallon buckets.",
+    meta: "12 min read • Ratio dilution guide",
+    category: "what does 1 to 40 dilution mean",
+  },
+  {
+    title: "What Does a 1:80 Dilution Mean? Exact mL + oz Examples",
+    url: "blogs/dilution/what-does-1-to-80-dilution-mean.html",
+    tag: "Dilution",
+    description:
+      "Plain-English 1:80 dilution guide with exact mL and oz examples for spray bottles, 1 liter, 2 liters, 1 gallon, and 3 gallon buckets.",
+    meta: "12 min read • Ratio dilution guide",
+    category: "what does 1 to 80 dilution mean",
+  },
+  {
+    title: "What Does 2 oz per Gallon Mean? Convert It to Bottles and Buckets",
+    url: "blogs/dilution/what-does-2-oz-per-gallon-mean.html",
+    tag: "Dilution",
+    description:
+      "Plain-English 2 oz per gallon guide with exact conversions for spray bottles, 750 mL, 1 liter, 2 liters, 1 gallon, and 3 gallon buckets.",
+    meta: "12 min read • oz-per-gallon dilution",
+    category: "what does 2 oz per gallon mean",
+  },
+  {
+    title: "How to Dilute Floor Cleaner Without Sticky Residue",
+    url: "blogs/dilution/how-to-dilute-floor-cleaner-without-residue.html",
+    tag: "Dilution",
+    description:
+      "Learn how to dilute floor cleaner without sticky residue, with bucket charts, ratio examples, rinse guidance, and common residue mistakes.",
+    meta: "13 min read • Floor cleaner dilution",
+    category: "dilute floor cleaner without sticky residue",
+  },
+  {
     title:
       "Baking Soda Cleaning Ratios: Paste vs Spray vs Soak (What Works, What to Avoid)",
     url: "blogs/baking-soda-cleaning-ratios-paste-spray-soak.html",

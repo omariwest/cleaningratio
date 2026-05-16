@@ -5,6 +5,25 @@
 
 window.BLOG_DATA_BLEACH = [
   {
+    title:
+      "Can You Put Bleach in a Spray Bottle? Safety, Dilution, and When Not To",
+    url: "blogs/bleach/can-you-put-bleach-in-a-spray-bottle.html",
+    tag: "Bleach",
+    description:
+      "A safety-first guide to using diluted bleach in a spray bottle, including when it is okay, when not to spray bleach, contact time, storage, and mixing mistakes.",
+    meta: "13 min read • Bleach spray safety",
+    category: "can you put bleach in a spray bottle",
+  },
+  {
+    title: "Bleach Contact Time vs Cleaning Time: What the Label Really Means",
+    url: "blogs/bleach/bleach-contact-time-vs-cleaning-time.html",
+    tag: "Bleach",
+    description:
+      "A plain-English guide to bleach contact time, cleaning time, wet surface requirements, label directions, and common disinfecting mistakes.",
+    meta: "13 min read • Bleach disinfection basics",
+    category: "bleach contact time vs cleaning time",
+  },
+  {
     title: "How to Dilute Bleach for Floor Cleaning Safely",
     url: "blogs/how-to-dilute-bleach-for-floor-cleaning.html",
     tag: "Bleach",
