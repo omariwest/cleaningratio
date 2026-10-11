@@ -215,16 +215,39 @@ select {
   min-height: 50px;
 }
 
+.ad-placement__frame--leaderboard {
+  width: 728px;
+  min-height: 90px;
+}
+
 .ad-placement__frame--native {
   width: 100%;
   max-width: 728px;
   min-height: 90px;
 }
 
+.ad-placement__frame--mobile {
+  display: block;
+}
+
+.ad-placement__frame--desktop {
+  display: none;
+}
+
 .ad-placement__frame iframe {
   display: block;
   margin-inline: auto;
   border: 0;
+}
+
+@media (min-width: 768px) {
+  .ad-placement__frame--mobile {
+    display: none;
+  }
+
+  .ad-placement__frame--desktop {
+    display: block;
+  }
 }
 
 @media (max-width: 351px) {
