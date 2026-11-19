@@ -5,6 +5,79 @@
 
 window.BLOG_DATA_DILUTION = [
   {
+    title: "Lysol Dilution Ratio Chart: Spray Bottle + Cleaning Mixes",
+    url: "blogs/lysol-dilution-ratio-chart-spray-bottle.html",
+    tag: "Dilution",
+    description:
+      "Current Lysol dilution guidance separated by product type, with spray-bottle, liter, and gallon examples instead of one universal brand ratio.",
+    meta: "12–14 min read • Lysol dilution",
+    category: "lysol dilution ratio chart spray bottle cleaning",
+  },
+  {
+    title: "Can You Dilute All-Purpose Cleaner in a Spray Bottle?",
+    url: "blogs/all-purpose-cleaner-spray-bottle-dilution.html",
+    tag: "Dilution",
+    description:
+      "A label-first guide to when all-purpose cleaner can be diluted and how to scale gallon, liter, and ratio directions to common spray bottles.",
+    meta: "10–12 min read • Spray bottle dilution",
+    category: "all purpose cleaner spray bottle dilution",
+  },
+  {
+    title: "70% vs 91% Isopropyl Alcohol for Cleaning",
+    url: "blogs/isopropyl-alcohol-70-vs-91-for-cleaning.html",
+    tag: "Dilution",
+    description:
+      "Compare 70% and 91% isopropyl alcohol for cleaning by evaporation, wet working time, surface compatibility, and label-directed disinfecting use.",
+    meta: "10–12 min read • Alcohol cleaning",
+    category: "isopropyl alcohol 70 91 cleaning comparison",
+  },
+  {
+    title: "How to Dilute 12%, 6%, and 3% Hydrogen Peroxide",
+    url: "blogs/hydrogen-peroxide-dilution-12-6-3-percent.html",
+    tag: "Dilution",
+    description:
+      "Use C1V1 = C2V2 for 12% to 6%, 12% to 3%, 6% to 3%, and 3% to 1% peroxide dilution with exact common-container amounts.",
+    meta: "13–15 min read • Peroxide dilution",
+    category: "hydrogen peroxide dilution 12 6 3 percent",
+  },
+  {
+    title: "What Does a 1:200 Dilution Mean?",
+    url: "blogs/what-does-1-to-200-dilution-mean.html",
+    tag: "Dilution",
+    description:
+      "Plain-English 1:200 dilution meaning with exact amounts for spray bottles, liters, gallons, and cleaning buckets.",
+    meta: "8–10 min read • Ratio basics",
+    category: "what does 1 to 200 dilution mean",
+  },
+  {
+    title: "What Does a 1:400 Dilution Mean?",
+    url: "blogs/what-does-1-to-400-dilution-mean.html",
+    tag: "Dilution",
+    description:
+      "Plain-English 1:400 dilution meaning with precise small-dose examples for bottles, liters, gallons, and buckets.",
+    meta: "8–10 min read • Ratio basics",
+    category: "what does 1 to 400 dilution mean",
+  },
+  {
+    title: "What Does a 1:500 Dilution Mean?",
+    url: "blogs/what-does-1-to-500-dilution-mean.html",
+    tag: "Dilution",
+    description:
+      "Plain-English 1:500 dilution meaning with exact concentrate and water amounts for common bottles and larger batches.",
+    meta: "8–10 min read • Ratio basics",
+    category: "what does 1 to 500 dilution mean",
+  },
+  {
+    title: "Mr. Clean Dilution Ratio for a Spray Bottle",
+    url: "blogs/mr-clean-dilution-ratio-spray-bottle.html",
+    tag: "Dilution",
+    description:
+      "Scale current Mr. Clean label rates to 16 oz, 24 oz, 32 oz, 1 L, and gallon mixes while keeping formula-specific directions separate.",
+    meta: "9–11 min read • Mr. Clean dilution",
+    category: "mr clean dilution ratio spray bottle",
+  },
+
+  {
     title: "How Much Cleaner Concentrate for a 750 mL Spray Bottle?",
     url: "blogs/dilution/how-much-concentrate-for-750ml-spray-bottle.html",
     tag: "Dilution",

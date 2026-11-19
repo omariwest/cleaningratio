@@ -5,6 +5,16 @@
 
 window.BLOG_DATA_ESSENTIAL_OILS = [
   {
+    title: "How Much Tea Tree Oil to Add to Shampoo?",
+    url: "blogs/tea-tree-oil-in-shampoo-how-many-drops.html",
+    tag: "Essential Oils",
+    description:
+      "A shampoo-specific tea tree oil drops chart with conservative 0.5% and 1% examples, small-batch guidance, and scalp-safety context.",
+    meta: "12–14 min read • Tea tree shampoo",
+    category: "essential-oil essential oils tea tree shampoo drops scalp",
+  },
+
+  {
     title: "Essential Oil Dilution for Face: 0.25%, 0.5% and 1% Drop Guide",
     url: "blogs/essential-oil-dilution-for-face.html",
     tag: "Essential Oils",
